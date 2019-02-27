@@ -1,0 +1,263 @@
+--------[ 鲁大师 ]--------------------------------------------------------------------------------
+
+  软件:             鲁大师 5.15.18.1060
+  时间:             2019-02-26 18:43:17
+  网站:             http://www.ludashi.com
+
+--------[ 概览 ]----------------------------------------------------------------------------------
+
+  电脑型号            索尼 VPCEG36EC 笔记本电脑
+  操作系统            Windows 7 旗舰版 64位 SP1 ( DirectX 11 )
+
+  处理器              英特尔 第二代酷睿 i3-2350M @ 2.30GHz 双核
+  主板                索尼 VAIO ( 英特尔 HM65 芯片组 )
+  显卡                英特尔 HD Graphics 3000 ( 64 MB / 索尼 )
+  内存                6 GB ( 三星 DDR3 1333MHz )
+  主硬盘              士必得 H5-60G PLUS ( 60 GB / 固态硬盘 )
+  显示器              中华映管 CPT17AB ( 14 英寸  )
+  声卡                Conexant SmartAudio HD @ 英特尔 6 Series Chipset  高保真音频
+  网卡                Atheros T77H126.00 802.11bgn Wireless Half-size Mini PCIe Card / 富士康
+
+--------[ 主板 ]----------------------------------------------------------------------------------
+
+  主板型号            索尼 VAIO
+  芯片组              英特尔 HM65 芯片组
+  序列号              N/A
+  主板版本            N/A
+  BIOS版本            INSYDE R0230Z8  /  BIOS程序发布日期: 2011年06月23日
+  BIOS的大小          2560 KB
+
+
+--------[ 处理器 ]--------------------------------------------------------------------------------
+
+  处理器              英特尔 第二代酷睿 i3-2350M @ 2.30GHz 双核
+  步进                D2
+  速度                2.30 GHz (100 MHz x 23.0)
+  处理器数量          核心数: 2 / 线程数: 4
+  核心代号            Sandy Bridge NB
+  生产工艺            32 纳米
+  插槽/插座           Socket G2 (PGA 988 / BGA 1023)
+  一级数据缓存        2 x 32 KB, 8-Way, 64 byte lines
+  一级代码缓存        2 x 32 KB, 8-Way, 64 byte lines
+  二级缓存            2 x 256 KB, 8-Way, 64 byte lines
+  三级缓存            3 MB, 12-Way, 64 byte lines
+  特征                MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT, EM64T, EIST
+
+--------[ 硬盘 ]----------------------------------------------------------------------------------
+
+  产品                士必得  H5-60G PLUS (固态硬盘)
+  大小                60 GB
+  硬盘已使用          共 1254 次，累计 2292 小时
+  固件                P0901A
+  接口                SATA III
+  特征                S.M.A.R.T,  48-bit LBA,  NCQ
+
+  产品                东芝  MK6465GSXN
+  大小                640 GB
+  转速                7200 转/分
+  缓存                0 KB
+  硬盘已使用          共 3666 次，累计 15211 小时
+  固件                GH012H
+  接口                SATA II
+  特征                S.M.A.R.T,  APM,  48-bit LBA,  NCQ
+
+--------[ 内存 ]----------------------------------------------------------------------------------
+
+  SODIMM1             三星 DDR3 1333MHz 4GB
+  制造日期            2015 年 03月
+  型号                CE M471B5273DHO-CH9
+  序列号              45665454
+  厂商                SAMSUNG
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.5V
+
+  SODIMM2             三星 DDR3 1333MHz 2GB
+  制造日期            2011 年 11月
+  型号                CE M471B5773DH0-CH9
+  序列号              0035E984
+  厂商                SAMSUNG
+  模块位宽:           64 Bits
+  模块电压:           SSTL 1.5V
+
+--------[ 显卡 ]----------------------------------------------------------------------------------
+
+  主显卡              英特尔 HD Graphics 3000
+  显存                64 MB
+  制造商              索尼
+  制造商              Intel
+  BIOS版本            Intel Video BIOS
+  BIOS日期            2001年06月20日 (非显卡制造日期)
+  驱动版本            9.17.10.3062
+  驱动日期            3-8-2013
+
+--------[ 显示器 ]--------------------------------------------------------------------------------
+
+  产品                中华映管 CPT17AB
+  厂商                中华映管
+  固件程序日期        2011 年 10月 (非显示器制造日期)
+  屏幕尺寸            14 英寸 (30 厘米 x 17 厘米)
+  显示比例            宽屏 16 : 9
+  分辨率              1366 x 768 32 位真彩色
+  Gamma               2.20
+  最大分辨率          1366 x 768
+
+--------[ 其他设备 ]------------------------------------------------------------------------------
+
+
+  无线网卡            Atheros T77H126.00 802.11bgn Wireless Half-size Mini PCIe Card
+  制造商              富士康
+
+  网卡                鈺硕 AR8151 V2.0 Gigabit Ethernet Controller
+  制造商              索尼
+
+  声卡                Conexant SmartAudio HD @ 英特尔 6 Series Chipset  高保真音频
+
+  键盘                PS/2 标准键盘
+  鼠标                Synaptics PS/2 Port Compatible 触摸板
+
+  摄像头              索尼 Visual Communication Camera
+
+--------[ PCI设备 ]-------------------------------------------------------------------------------
+
+  设备                2nd Generation Core Processor DRAM Controller
+  设备ID              0104
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to HOST
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                HD Graphics 3000
+  设备ID              0116
+  制造商              Intel
+  制造商ID            8086
+  类别                Display / VGA
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                6 Series/C200 Series Management Engine Interface
+  设备ID              1C3A
+  制造商              Intel
+  制造商ID            8086
+  类别                Simple Communication / Other
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                6 Series/C200 Series Chipset USB Enhanced Host Controller
+  设备ID              1C2D
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                6 Series Chipset HD Audio Controller
+  设备ID              1C20
+  制造商              Intel
+  制造商ID            8086
+  类别                Multimedia / Hi-definition Audio
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                6 Series/C200 Series Chipset PCI Express Root Port 1
+  设备ID              1C10
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                6 Series/C200 Series Chipset PCI Express Root Port 2
+  设备ID              1C12
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                6 Series/C200 Series Chipset PCI Express Root Port 4
+  设备ID              1C16
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to PCI
+  子系统ID            00000000
+
+  设备                6 Series/C200 Series Chipset USB Enhanced Host Controller
+  设备ID              1C26
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / USB 2.0 (EHCI)
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                HM65 Express Chipset LPC Interface Controller
+  设备ID              1C49
+  制造商              Intel
+  制造商ID            8086
+  类别                Bridge / PCI to ISA
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                6 Series/C200 Series Chipset 6 Port SATA AHCI Controller
+  设备ID              1C03
+  制造商              Intel
+  制造商ID            8086
+  类别                Storage / Serial ATA (AHCI 1.0)
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                6 Series/C200 Series Chipset SMBus Controller
+  设备ID              1C22
+  制造商              Intel
+  制造商ID            8086
+  类别                Serial / SMBus Controller
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                6 Series/C200 Series Chipset Thermal Control
+  设备ID              1C24
+  制造商              Intel
+  制造商ID            8086
+  类别                Data Aquisition & Signal Processing / Other
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                T77H126.00 802.11bgn Wireless Half-size Mini PCIe Card
+  设备ID              002B
+  制造商              Atheros
+  制造商ID            168C
+  类别                Network / Other
+  子系统制造商        Foxconn
+  子系统ID            E017105B
+
+  设备                RTS-5208 PCIE CardReader
+  设备ID              5209
+  制造商              Realtek
+  制造商ID            10EC
+  类别                 / 
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+  设备                AR8151 V2.0 Gigabit Ethernet Controller
+  设备ID              1083
+  制造商              Attansic
+  制造商ID            1969
+  类别                Network / Ethernet
+  子系统制造商        Sony
+  子系统ID            908A104D
+
+--------[ USB设备 ]-------------------------------------------------------------------------------
+
+  制造商ID            04F2
+  产品ID              B290
+  类别                239 / 2 / 1
+  设备                 
+  版本                USB 2.0
+
+--------[ 传感器 ]--------------------------------------------------------------------------------
+
+  名称                SONY SONY_VAIO
+  CPU温度             56℃
+  CPU核心             52℃
+  CPU封装             56℃
+  PCH                 49℃
+  硬盘温度            40℃
+
